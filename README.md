@@ -1,5 +1,7 @@
-## E ai 👋
+## E ai?👋
+Esse é meu Github e é a minha primeira vez usando isso, sou iniciante, e quero que entenda os meus erros e não me julguem porque em algum dia eu posso melhorar
 
+O QUE ESTOU APRENDENDO: 
 <!--
 **alissondias5463-debug/alissondias5463-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
