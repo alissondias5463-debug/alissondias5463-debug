@@ -28,7 +28,6 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 
 ## 📊 Estatísticas no GitHub
 
-> 💡 *Dica: Substitua `SEU-USUARIO` abaixo pelo seu nome de usuário real do GitHub para ativar o card de estatísticas!*
 
 ![Estatísticas do GitHub](https://vercel.app)
 
@@ -37,7 +36,7 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 ## 📫 Como falar comigo
 
 * **GitHub:** [://github.com](https://://github.com)
-* **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com)
+* **LinkedIn:**(https://linkedin.com)
 
 <!--
 **alissondias5463-debug/alissondias5463-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
