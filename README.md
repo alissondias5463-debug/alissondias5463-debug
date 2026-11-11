@@ -5,9 +5,10 @@ Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução co
 
 ---
 
-##  O que estou aprendendo
+## 🚀 O que estou aprendendo
 
 Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
+
 * 🥊 **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
 * 🌐 **HTML** — Estruturação de páginas web e fundamentos do desenvolvimento front-end.
 * 🐍 **Python** — Lógica de programação, automação e desenvolvimento back-end.
@@ -28,6 +29,7 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 ## 📊 Estatísticas no GitHub
 
 
+
 ![Estatísticas do GitHub](https://vercel.app)
 
 ---
@@ -37,17 +39,4 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 * **GitHub:** [://github.com](https://://github.com)
 * **LinkedIn:**(https://linkedin.com)
 
-<!--
-**alissondias5463-debug/alissondias5463-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
