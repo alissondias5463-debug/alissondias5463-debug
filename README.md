@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução co
 
 ---
 
-##  O que estou aprendendo
+##  O que estou  aprendendo
 
 Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
 * 🥊 **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
