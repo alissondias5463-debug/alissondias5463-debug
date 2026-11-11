@@ -8,11 +8,11 @@ Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução co
 ##  O que estou aprendendo
 
 Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
-[Boxe](https://shields.io)
-![HTML5](https://shields.io)
-![Python](https://shields.io)
-![VS Code](https://shields.io)
-![GitHub](https://shields.io)
+* 🥊 **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
+* 🌐 **HTML** — Estruturação de páginas web e fundamentos do desenvolvimento front-end.
+* 🐍 **Python** — Lógica de programação, automação e desenvolvimento back-end.
+* 💻 **VS Code** — Produtividade, atalhos, extensões e configuração de ambiente de código.
+* 🐙 **GitHub** — Controle de versão, organização de repositórios e colaboração em projetos.
 
 ---
 
