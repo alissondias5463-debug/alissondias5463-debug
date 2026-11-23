@@ -1,11 +1,12 @@
-## E ai?👋
+E ai? 👋
+
 # Olá! Bem-vindo ao meu perfil 👋
 
 Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução constante dentro e fora dos códigos.
 
 ---
 
-## 🚀 O que estou aprendendo
+### 🚀 O que estou aprendendo
 
 Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
 
@@ -17,7 +18,7 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+### 🛠️ Ferramentas e Tecnologias
 
 ![HTML5](https://shields.io)
 ![Python](https://shields.io)
@@ -26,17 +27,12 @@ Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas se
 
 ---
 
-## 📊 Estatísticas no GitHub
-
-
+### 📊 Estatísticas no GitHub
 
 ![Estatísticas do GitHub](https://vercel.app)
 
 ---
 
-## 📫 Como falar comigo
+### 📫 Como falar comigo
 
 * **GitHub:** [://github.com](https://://github.com)
-* **LinkedIn:**(https://linkedin.com)
-
--->
