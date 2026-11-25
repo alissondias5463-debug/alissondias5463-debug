@@ -1,11 +1,4 @@
-int(input(float))
-print("nível percentual de capacidade dos açudes")
-if(float>=50):
-    print("nível seguro")
-else:
-    if(float<50):
-        print("Atenção:nível de Alerta!")
-
-
-
-
+n1 = int(input("Digite um valor"))
+n2 = int(input("Digite outro valor"))
+soma = n1 + n2
+print(soma)
