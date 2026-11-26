@@ -25,7 +25,7 @@ Olá! Sou **Alisson Ruan**, gosto muito por esportes, tecnologia e novos desafio
 **FUTEBOL:** Gosto muito de jogar bola e já participei de campeonatos internos e estaduais. O esporte me ensinou sobre trabalho em equipe, dedicação e competitividade.
 
 **TECNOLOGIA:** Sou iniciante na área de tecnologia e programação, mas tenho muita vontade de aprender, adquirir conhecimento e evoluir cada vez mais. Python estou começando a ser um amador, porque
-eu estou aprendendo sobre essa linguagem de programação, pretendo fazer estagio e me ingressar um uma universidade federal, 
+eu estou aprendendo sobre essa linguagem de programação, pretendo fazer estagio e me ingressar um uma universidade federal, e ter um bom futuro pela frente.
 
 ## TECNOLOGIAS EM APRENDIZADO
 
