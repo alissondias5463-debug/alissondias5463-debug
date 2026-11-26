@@ -1,16 +1,14 @@
-# ALISSON DIAS
+# ALISSON RUAN
 
 <div align="center">
 
-# <span style="color:#e63946;">BEM-VINDO AO MEU PERFIL!</span>
+## BEM-VINDO AO MEU PERFIL!
 
-### <span style="color:#d4af37;">BOXE • DISCIPLINA • DETERMINAÇÃO</span>
+<img src="https://img.shields.io/badge/BOXE-DISCIPLINA-E63946?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FUTEBOL-PAIXÃO-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TECNOLOGIA-EVOLUÇÃO-1572B6?style=for-the-badge" />
 
-**"A luta nunca termina para quem nasceu para evoluir."**
-
-<img src="https://img.shields.io/badge/MENTALIDADE-DE%20CAMPEÃO-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCO-100%25-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EVOLUÇÃO-CONSTANTE-gold?style=for-the-badge" />
+*"A evolução começa quando decidimos nunca parar de aprender."*
 
 </div>
 
@@ -18,28 +16,15 @@
 
 ## SOBRE MIM
 
-Meu nome é **Alisson Dias**. Sou apaixonado por boxe, MMA, tecnologia e programação.
+Olá! Sou **Alisson Ruan**, apaixonado por esportes, tecnologia e novos desafios. Gosto de aprender coisas novas, desenvolver minhas habilidades e evoluir um pouco mais a cada dia.
 
-Acredito que a disciplina construída dentro do esporte também transforma a vida fora dele. Estou sempre buscando aprender, evoluir e superar meus próprios limites.
+## MINHAS PAIXÕES
 
-## MINHA MENTALIDADE
+**BOXE:** Sou apaixonado pelo mundo das lutas. O boxe representa disciplina, respeito, coragem e superação.
 
-- Disciplina acima da motivação.
-- Respeito dentro e fora do ringue.
-- Foco nos meus objetivos.
-- Aprendizado constante.
-- Nunca desistir da evolução.
+**FUTEBOL:** Gosto muito de jogar bola e já participei de campeonatos internos e estaduais. O esporte me ensinou sobre trabalho em equipe, dedicação e competitividade.
 
-## MEUS INTERESSES
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BOXE-E63946?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MMA-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROGRAMAÇÃO-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TECNOLOGIA-D4AF37?style=for-the-badge" />
-
-</div>
+**TECNOLOGIA:** Sou iniciante na área de tecnologia e programação, mas tenho muita vontade de aprender, adquirir conhecimento e evoluir cada vez mais.
 
 ## TECNOLOGIAS EM APRENDIZADO
 
@@ -52,14 +37,23 @@ Acredito que a disciplina construída dentro do esporte também transforma a vid
 
 </div>
 
----
+## MINHA MENTALIDADE
+
+- Disciplina acima da motivação.
+- Respeito dentro e fora do esporte.
+- Nunca parar de aprender.
+- Evoluir todos os dias.
+- Ter fé e persistir nos meus objetivos.
+
+## MINHA FILOSOFIA
+
+"Acredito que, com dedicação, humildade e a força de Deus, posso superar desafios, conquistar meus sonhos e me tornar alguém melhor a cada dia."
 
 <div align="center">
 
-## <span style="color:#e63946;">MENTALIDADE DE LUTADOR.</span>
+<img src="https://img.shields.io/badge/FÉ%20EM%20DEUS-FOCO%20NOS%20OBJETIVOS-D4AF37?style=for-the-badge" />
 
-### <span style="color:#d4af37;">CORAÇÃO DE CAMPEÃO.</span>
-
-**ALISSON DIAS**
+### ALISSON RUAN
+**MENTALIDADE DE LUTADOR. CORAÇÃO DE CAMPEÃO.**
 
 </div>
