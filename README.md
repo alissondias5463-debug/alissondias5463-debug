@@ -1,4 +1,8 @@
 # E ai? Eu sou o Alisson Ruan
+<svg fill="none" viewBox="0 0 800 320" width="800" height="320" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
 
 <div align="center">
 
