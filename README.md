@@ -2,7 +2,8 @@ E ai? 👋
 
 # Olá! Bem-vindo ao meu perfil 
 
-Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução constante dentro e fora dos códigos.
+Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução constante dentro e fora dos códigos. minha meta é começar a tirar boas notas e lutar meu primeiro campeonato de boxe
+me formar no meu curso de desenvolvimento de sistemas, e ficar profissional em manuntenção de computadores e me aprofundar em engenharia da computação 
 
 ---
 
