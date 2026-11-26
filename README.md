@@ -7,15 +7,15 @@ me formar no meu curso de desenvolvimento de sistemas, e ficar profissional em m
 
 ---
 
-### 🚀 O que estou aprendendo
+###  O que estou aprendendo
 
 Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
 
-* 🥊 **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
-* 🌐 **HTML** — Estruturação de páginas web e fundamentos do desenvolvimento front-end.
-* 🐍 **Python** — Lógica de programação, automação e desenvolvimento back-end.
-* 💻 **VS Code** — Produtividade, atalhos, extensões e configuração de ambiente de código.
-* 🐙 **GitHub** — Controle de versão, organização de repositórios e colaboração em projetos.
+*  **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
+*  **HTML** — Estruturação de páginas web e fundamentos do desenvolvimento front-end.
+*  **Python** — Lógica de programação, automação e desenvolvimento back-end.
+*  **VS Code** — Produtividade, atalhos, extensões e configuração de ambiente de código.
+*  **GitHub** — Controle de versão, organização de repositórios e colaboração em projetos.
 
 ---
 
