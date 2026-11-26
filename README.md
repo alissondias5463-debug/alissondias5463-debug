@@ -1,41 +1,65 @@
-E ai? 👋 
+# ALISSON DIAS
 
-# Olá! Bem-vindo ao meu perfil 
+<div align="center">
 
-Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução constante dentro e fora dos códigos. minha meta é começar a tirar boas notas e lutar meu primeiro campeonato de boxe
-me formar no meu curso de desenvolvimento de sistemas, e ficar profissional em manutenção de computadores e me aprofundar em engenharia da computação. também não posso descartar o prazer de jogar bola todo dia
-ja participei de campeonatos e de torneios internos e estaduais.
+# <span style="color:#e63946;">BEM-VINDO AO MEU PERFIL!</span>
 
----
+### <span style="color:#d4af37;">BOXE • DISCIPLINA • DETERMINAÇÃO</span>
 
-###  O que estou aprendendo
+**"A luta nunca termina para quem nasceu para evoluir."**
 
-Atualmente, estou dedicando meu tempo e foco para desenvolver habilidades nas seguintes áreas:
+<img src="https://img.shields.io/badge/MENTALIDADE-DE%20CAMPEÃO-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCO-100%25-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EVOLUÇÃO-CONSTANTE-gold?style=for-the-badge" />
 
-*  **Boxe** — Disciplina, foco, condicionamento físico e técnica no ringue.
-*  **HTML** — Estruturação de páginas web e fundamentos do desenvolvimento front-end.
-*  **Python** — Lógica de programação, automação e desenvolvimento back-end.
-*  **VS Code** — Produtividade, atalhos, extensões e configuração de ambiente de código.
-*  **GitHub** — Controle de versão, organização de repositórios e colaboração em projetos.
+</div>
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+## SOBRE MIM
 
-![HTML5](https://shields.io)
-![Python](https://shields.io)
-![VS Code](https://shields.io)
-![GitHub](https://shields.io)
+Meu nome é **Alisson Dias**. Sou apaixonado por boxe, MMA, tecnologia e programação.
+
+Acredito que a disciplina construída dentro do esporte também transforma a vida fora dele. Estou sempre buscando aprender, evoluir e superar meus próprios limites.
+
+## MINHA MENTALIDADE
+
+- Disciplina acima da motivação.
+- Respeito dentro e fora do ringue.
+- Foco nos meus objetivos.
+- Aprendizado constante.
+- Nunca desistir da evolução.
+
+## MEUS INTERESSES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BOXE-E63946?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MMA-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROGRAMAÇÃO-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TECNOLOGIA-D4AF37?style=for-the-badge" />
+
+</div>
+
+## TECNOLOGIAS EM APRENDIZADO
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
-### 📊 Estatísticas no GitHub
+<div align="center">
 
-![Estatísticas do GitHub](https://vercel.app)
+## <span style="color:#e63946;">MENTALIDADE DE LUTADOR.</span>
 
----
+### <span style="color:#d4af37;">CORAÇÃO DE CAMPEÃO.</span>
 
-### 📫 Como falar comigo
+**ALISSON DIAS**
 
-* **GitHub:** [://github.com](https://://github.com)
- adicione HTML e CSS
+</div>
