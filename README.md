@@ -16,15 +16,16 @@
 
 ## SOBRE MIM
 
-Olá! Sou **Alisson Ruan**, apaixonado por esportes, tecnologia e novos desafios. Gosto de aprender coisas novas, desenvolver minhas habilidades e evoluir um pouco mais a cada dia.
+Olá! Sou **Alisson Ruan**, gosto muito por esportes, tecnologia e novos desafios. Gosto de aprender coisas novas, desenvolver minhas habilidades.
 
-## MINHAS PAIXÕES
+## MINHAS METAS
 
 **BOXE:** Sou apaixonado pelo mundo das lutas. O boxe representa disciplina, respeito, coragem e superação.
 
 **FUTEBOL:** Gosto muito de jogar bola e já participei de campeonatos internos e estaduais. O esporte me ensinou sobre trabalho em equipe, dedicação e competitividade.
 
-**TECNOLOGIA:** Sou iniciante na área de tecnologia e programação, mas tenho muita vontade de aprender, adquirir conhecimento e evoluir cada vez mais.
+**TECNOLOGIA:** Sou iniciante na área de tecnologia e programação, mas tenho muita vontade de aprender, adquirir conhecimento e evoluir cada vez mais. Python estou começando a ser um amador, porque
+eu estou aprendendo sobre essa linguagem de programação, pretendo fazer estagio e me ingressar um uma universidade federal, 
 
 ## TECNOLOGIAS EM APRENDIZADO
 
@@ -44,6 +45,7 @@ Olá! Sou **Alisson Ruan**, apaixonado por esportes, tecnologia e novos desafios
 - Nunca parar de aprender.
 - Evoluir todos os dias.
 - Ter fé e persistir nos meus objetivos.
+- Seja bem vindo(a) -_-
 
 ## MINHA FILOSOFIA
 
@@ -53,7 +55,5 @@ Olá! Sou **Alisson Ruan**, apaixonado por esportes, tecnologia e novos desafios
 
 <img src="https://img.shields.io/badge/FÉ%20EM%20DEUS-FOCO%20NOS%20OBJETIVOS-D4AF37?style=for-the-badge" />
 
-### ALISSON RUAN
-**MENTALIDADE DE LUTADOR. CORAÇÃO DE CAMPEÃO.**
 
 </div>
