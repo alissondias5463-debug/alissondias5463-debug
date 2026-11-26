@@ -1,6 +1,6 @@
 E ai? 👋
 
-# Olá! Bem-vindo ao meu perfil 👋
+# Olá! Bem-vindo ao meu perfil 
 
 Sou um entusiasta da tecnologia e dos esportes, sempre em busca de evolução constante dentro e fora dos códigos.
 
